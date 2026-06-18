@@ -1,0 +1,4 @@
+event_id,event_name,year,total_damage_usd,total_damage_bn,infrastructure_cost,owner_registrations,renter_registrations,total_displaced,renter_pct,total_owner_ihp_amount,total_renter_ihp_amount,incident_begin,incident_end,disaster_type,affected_zones
+DR-4407,Woolsey + Camp Fire Complex,2018,16997768.3,0.02,2214200000.0,15773,11088,26861,41.3,381721.56,262133.3,2018-11-08,2018-11-25,Wildfire,"Pacific Palisades, Altadena, Eaton Canyon, Malibu, Topanga, Hollywood Hills, Ventura County WUI"
+DR-4569,Bobcat + Wildfires,2020,14842365.65,0.01,405900000.0,4729,3958,8687,45.6,387298.82,174912.0,2020-09-04,2020-11-17,Wildfire,"Pacific Palisades, Altadena, Eaton Canyon, Malibu, Topanga, Hollywood Hills, Ventura County WUI"
+DR-4856,Palisades + Eaton Fires,2025,4676402444.47,4.68,1167300000.0,185869,74971,260840,28.7,72795958.23,104340498.0,2025-01-07,2025-01-31,Wildfire,"Pacific Palisades, Altadena, Eaton Canyon, Malibu, Topanga, Hollywood Hills, Ventura County WUI"

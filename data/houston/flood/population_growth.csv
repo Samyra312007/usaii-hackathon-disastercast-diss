@@ -1,0 +1,235 @@
+year,zone_name,population,growth_rate_pct
+2000,Brays Bayou,180000,2.5
+2000,Buffalo Bayou,130000,2.5
+2000,White Oak Bayou,150000,2.5
+2000,Addicks Reservoir,90000,3.5
+2000,Barker Reservoir,80000,3.5
+2000,Hunting Bayou,80000,2.5
+2000,Meyerland,35000,2.5
+2000,East Houston,55000,2.5
+2000,Greenspoint,45000,2.5
+2001,Brays Bayou,184499,2.5
+2001,Buffalo Bayou,133250,2.5
+2001,White Oak Bayou,153750,2.5
+2001,Addicks Reservoir,93150,3.5
+2001,Barker Reservoir,82800,3.5
+2001,Hunting Bayou,82000,2.5
+2001,Meyerland,35875,2.5
+2001,East Houston,56374,2.5
+2001,Greenspoint,46124,2.5
+2002,Brays Bayou,189112,2.5
+2002,Buffalo Bayou,136581,2.5
+2002,White Oak Bayou,157593,2.5
+2002,Addicks Reservoir,96410,3.5
+2002,Barker Reservoir,85697,3.5
+2002,Hunting Bayou,84050,2.5
+2002,Meyerland,36771,2.5
+2002,East Houston,57784,2.5
+2002,Greenspoint,47278,2.5
+2003,Brays Bayou,193840,2.5
+2003,Buffalo Bayou,139995,2.5
+2003,White Oak Bayou,161533,2.5
+2003,Addicks Reservoir,99784,3.5
+2003,Barker Reservoir,88697,3.5
+2003,Hunting Bayou,86151,2.5
+2003,Meyerland,37691,2.5
+2003,East Houston,59228,2.5
+2003,Greenspoint,48460,2.5
+2004,Brays Bayou,198686,2.5
+2004,Buffalo Bayou,143495,2.5
+2004,White Oak Bayou,165571,2.5
+2004,Addicks Reservoir,103277,3.5
+2004,Barker Reservoir,91801,3.5
+2004,Hunting Bayou,88305,2.5
+2004,Meyerland,38633,2.5
+2004,East Houston,60709,2.5
+2004,Greenspoint,49671,2.5
+2005,Brays Bayou,203653,2.5
+2005,Buffalo Bayou,147083,2.5
+2005,White Oak Bayou,169711,2.5
+2005,Addicks Reservoir,106891,3.5
+2005,Barker Reservoir,95014,3.5
+2005,Hunting Bayou,90512,2.5
+2005,Meyerland,39599,2.5
+2005,East Houston,62227,2.5
+2005,Greenspoint,50913,2.5
+2006,Brays Bayou,208744,2.5
+2006,Buffalo Bayou,150760,2.5
+2006,White Oak Bayou,173954,2.5
+2006,Addicks Reservoir,110632,3.5
+2006,Barker Reservoir,98340,3.5
+2006,Hunting Bayou,92775,2.5
+2006,Meyerland,40589,2.5
+2006,East Houston,63783,2.5
+2006,Greenspoint,52186,2.5
+2007,Brays Bayou,213963,2.5
+2007,Buffalo Bayou,154529,2.5
+2007,White Oak Bayou,178302,2.5
+2007,Addicks Reservoir,114505,3.5
+2007,Barker Reservoir,101782,3.5
+2007,Hunting Bayou,95094,2.5
+2007,Meyerland,41604,2.5
+2007,East Houston,65377,2.5
+2007,Greenspoint,53490,2.5
+2008,Brays Bayou,219312,2.5
+2008,Buffalo Bayou,158392,2.5
+2008,White Oak Bayou,182760,2.5
+2008,Addicks Reservoir,118512,3.5
+2008,Barker Reservoir,105344,3.5
+2008,Hunting Bayou,97472,2.5
+2008,Meyerland,42644,2.5
+2008,East Houston,67012,2.5
+2008,Greenspoint,54828,2.5
+2009,Brays Bayou,224795,2.5
+2009,Buffalo Bayou,162352,2.5
+2009,White Oak Bayou,187329,2.5
+2009,Addicks Reservoir,122660,3.5
+2009,Barker Reservoir,109031,3.5
+2009,Hunting Bayou,99909,2.5
+2009,Meyerland,43710,2.5
+2009,East Houston,68687,2.5
+2009,Greenspoint,56198,2.5
+2010,Brays Bayou,230415,2.5
+2010,Buffalo Bayou,166410,2.5
+2010,White Oak Bayou,192012,2.5
+2010,Addicks Reservoir,126953,3.5
+2010,Barker Reservoir,112847,3.5
+2010,Hunting Bayou,102406,2.5
+2010,Meyerland,44802,2.5
+2010,East Houston,70404,2.5
+2010,Greenspoint,57603,2.5
+2011,Brays Bayou,236175,2.5
+2011,Buffalo Bayou,170571,2.5
+2011,White Oak Bayou,196812,2.5
+2011,Addicks Reservoir,131397,3.5
+2011,Barker Reservoir,116797,3.5
+2011,Hunting Bayou,104966,2.5
+2011,Meyerland,45923,2.5
+2011,East Houston,72164,2.5
+2011,Greenspoint,59043,2.5
+2012,Brays Bayou,242079,2.5
+2012,Buffalo Bayou,174835,2.5
+2012,White Oak Bayou,201733,2.5
+2012,Addicks Reservoir,135996,3.5
+2012,Barker Reservoir,120885,3.5
+2012,Hunting Bayou,107591,2.5
+2012,Meyerland,47071,2.5
+2012,East Houston,73968,2.5
+2012,Greenspoint,60519,2.5
+2013,Brays Bayou,248131,2.5
+2013,Buffalo Bayou,179206,2.5
+2013,White Oak Bayou,206776,2.5
+2013,Addicks Reservoir,140756,3.5
+2013,Barker Reservoir,125116,3.5
+2013,Hunting Bayou,110280,2.5
+2013,Meyerland,48247,2.5
+2013,East Houston,75818,2.5
+2013,Greenspoint,62032,2.5
+2014,Brays Bayou,254335,2.5
+2014,Buffalo Bayou,183686,2.5
+2014,White Oak Bayou,211946,2.5
+2014,Addicks Reservoir,145682,3.5
+2014,Barker Reservoir,129495,3.5
+2014,Hunting Bayou,113037,2.5
+2014,Meyerland,49454,2.5
+2014,East Houston,77713,2.5
+2014,Greenspoint,63583,2.5
+2015,Brays Bayou,260693,2.5
+2015,Buffalo Bayou,188278,2.5
+2015,White Oak Bayou,217244,2.5
+2015,Addicks Reservoir,150781,3.5
+2015,Barker Reservoir,134027,3.5
+2015,Hunting Bayou,115863,2.5
+2015,Meyerland,50690,2.5
+2015,East Houston,79656,2.5
+2015,Greenspoint,65173,2.5
+2016,Brays Bayou,267211,2.5
+2016,Buffalo Bayou,192985,2.5
+2016,White Oak Bayou,222675,2.5
+2016,Addicks Reservoir,156058,3.5
+2016,Barker Reservoir,138718,3.5
+2016,Hunting Bayou,118760,2.5
+2016,Meyerland,51957,2.5
+2016,East Houston,81647,2.5
+2016,Greenspoint,66802,2.5
+2017,Brays Bayou,273891,2.5
+2017,Buffalo Bayou,197810,2.5
+2017,White Oak Bayou,228242,2.5
+2017,Addicks Reservoir,161520,3.5
+2017,Barker Reservoir,143574,3.5
+2017,Hunting Bayou,121729,2.5
+2017,Meyerland,53256,2.5
+2017,East Houston,83689,2.5
+2017,Greenspoint,68472,2.5
+2018,Brays Bayou,280738,2.5
+2018,Buffalo Bayou,202755,2.5
+2018,White Oak Bayou,233948,2.5
+2018,Addicks Reservoir,167174,3.5
+2018,Barker Reservoir,148599,3.5
+2018,Hunting Bayou,124772,2.5
+2018,Meyerland,54588,2.5
+2018,East Houston,85781,2.5
+2018,Greenspoint,70184,2.5
+2019,Brays Bayou,287757,2.5
+2019,Buffalo Bayou,207824,2.5
+2019,White Oak Bayou,239797,2.5
+2019,Addicks Reservoir,173025,3.5
+2019,Barker Reservoir,153800,3.5
+2019,Hunting Bayou,127892,2.5
+2019,Meyerland,55952,2.5
+2019,East Houston,87925,2.5
+2019,Greenspoint,71939,2.5
+2020,Brays Bayou,294950,2.5
+2020,Buffalo Bayou,213020,2.5
+2020,White Oak Bayou,245792,2.5
+2020,Addicks Reservoir,179080,3.5
+2020,Barker Reservoir,159183,3.5
+2020,Hunting Bayou,131089,2.5
+2020,Meyerland,57351,2.5
+2020,East Houston,90123,2.5
+2020,Greenspoint,73737,2.5
+2021,Brays Bayou,302324,2.5
+2021,Buffalo Bayou,218345,2.5
+2021,White Oak Bayou,251937,2.5
+2021,Addicks Reservoir,185348,3.5
+2021,Barker Reservoir,164754,3.5
+2021,Hunting Bayou,134366,2.5
+2021,Meyerland,58785,2.5
+2021,East Houston,92377,2.5
+2021,Greenspoint,75581,2.5
+2022,Brays Bayou,309882,2.5
+2022,Buffalo Bayou,223804,2.5
+2022,White Oak Bayou,258235,2.5
+2022,Addicks Reservoir,191836,3.5
+2022,Barker Reservoir,170520,3.5
+2022,Hunting Bayou,137725,2.5
+2022,Meyerland,60254,2.5
+2022,East Houston,94686,2.5
+2022,Greenspoint,77470,2.5
+2023,Brays Bayou,317629,2.5
+2023,Buffalo Bayou,229399,2.5
+2023,White Oak Bayou,264691,2.5
+2023,Addicks Reservoir,198550,3.5
+2023,Barker Reservoir,176489,3.5
+2023,Hunting Bayou,141168,2.5
+2023,Meyerland,61761,2.5
+2023,East Houston,97053,2.5
+2023,Greenspoint,79407,2.5
+2024,Brays Bayou,325570,2.5
+2024,Buffalo Bayou,235134,2.5
+2024,White Oak Bayou,271308,2.5
+2024,Addicks Reservoir,205499,3.5
+2024,Barker Reservoir,182666,3.5
+2024,Hunting Bayou,144698,2.5
+2024,Meyerland,63305,2.5
+2024,East Houston,99479,2.5
+2024,Greenspoint,81392,2.5
+2025,Brays Bayou,333709,2.5
+2025,Buffalo Bayou,241012,2.5
+2025,White Oak Bayou,278091,2.5
+2025,Addicks Reservoir,212692,3.5
+2025,Barker Reservoir,189059,3.5
+2025,Hunting Bayou,148315,2.5
+2025,Meyerland,64888,2.5
+2025,East Houston,101966,2.5
+2025,Greenspoint,83427,2.5

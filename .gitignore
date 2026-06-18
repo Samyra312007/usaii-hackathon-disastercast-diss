@@ -2,7 +2,8 @@
 .env.local
 __pycache__/
 *.pyc
-*.csv
+datasets/**/*.csv
+!data/**/*.csv
 .agents/
 skills
 .pytest_cache

@@ -1,0 +1,183 @@
+year,zone_name,population,growth_rate_pct
+2000,Pacific Palisades,18000,1.5
+2000,Altadena,30000,1.5
+2000,Eaton Canyon,10000,1.5
+2000,Malibu,10000,1.5
+2000,Topanga,7000,1.5
+2000,Hollywood Hills,28000,1.5
+2000,Ventura County WUI,35000,1.5
+2001,Pacific Palisades,18270,1.5
+2001,Altadena,30449,1.5
+2001,Eaton Canyon,10149,1.5
+2001,Malibu,10149,1.5
+2001,Topanga,7104,1.5
+2001,Hollywood Hills,28419,1.5
+2001,Ventura County WUI,35525,1.5
+2002,Pacific Palisades,18544,1.5
+2002,Altadena,30906,1.5
+2002,Eaton Canyon,10302,1.5
+2002,Malibu,10302,1.5
+2002,Topanga,7211,1.5
+2002,Hollywood Hills,28846,1.5
+2002,Ventura County WUI,36057,1.5
+2003,Pacific Palisades,18822,1.5
+2003,Altadena,31370,1.5
+2003,Eaton Canyon,10456,1.5
+2003,Malibu,10456,1.5
+2003,Topanga,7319,1.5
+2003,Hollywood Hills,29278,1.5
+2003,Ventura County WUI,36598,1.5
+2004,Pacific Palisades,19104,1.5
+2004,Altadena,31840,1.5
+2004,Eaton Canyon,10613,1.5
+2004,Malibu,10613,1.5
+2004,Topanga,7429,1.5
+2004,Hollywood Hills,29718,1.5
+2004,Ventura County WUI,37147,1.5
+2005,Pacific Palisades,19391,1.5
+2005,Altadena,32318,1.5
+2005,Eaton Canyon,10772,1.5
+2005,Malibu,10772,1.5
+2005,Topanga,7540,1.5
+2005,Hollywood Hills,30163,1.5
+2005,Ventura County WUI,37704,1.5
+2006,Pacific Palisades,19681,1.5
+2006,Altadena,32803,1.5
+2006,Eaton Canyon,10934,1.5
+2006,Malibu,10934,1.5
+2006,Topanga,7654,1.5
+2006,Hollywood Hills,30616,1.5
+2006,Ventura County WUI,38270,1.5
+2007,Pacific Palisades,19977,1.5
+2007,Altadena,33295,1.5
+2007,Eaton Canyon,11098,1.5
+2007,Malibu,11098,1.5
+2007,Topanga,7768,1.5
+2007,Hollywood Hills,31075,1.5
+2007,Ventura County WUI,38844,1.5
+2008,Pacific Palisades,20276,1.5
+2008,Altadena,33794,1.5
+2008,Eaton Canyon,11264,1.5
+2008,Malibu,11264,1.5
+2008,Topanga,7885,1.5
+2008,Hollywood Hills,31541,1.5
+2008,Ventura County WUI,39427,1.5
+2009,Pacific Palisades,20581,1.5
+2009,Altadena,34301,1.5
+2009,Eaton Canyon,11433,1.5
+2009,Malibu,11433,1.5
+2009,Topanga,8003,1.5
+2009,Hollywood Hills,32014,1.5
+2009,Ventura County WUI,40018,1.5
+2010,Pacific Palisades,20889,1.5
+2010,Altadena,34816,1.5
+2010,Eaton Canyon,11605,1.5
+2010,Malibu,11605,1.5
+2010,Topanga,8123,1.5
+2010,Hollywood Hills,32495,1.5
+2010,Ventura County WUI,40618,1.5
+2011,Pacific Palisades,21203,1.5
+2011,Altadena,35338,1.5
+2011,Eaton Canyon,11779,1.5
+2011,Malibu,11779,1.5
+2011,Topanga,8245,1.5
+2011,Hollywood Hills,32982,1.5
+2011,Ventura County WUI,41228,1.5
+2012,Pacific Palisades,21521,1.5
+2012,Altadena,35868,1.5
+2012,Eaton Canyon,11956,1.5
+2012,Malibu,11956,1.5
+2012,Topanga,8369,1.5
+2012,Hollywood Hills,33477,1.5
+2012,Ventura County WUI,41846,1.5
+2013,Pacific Palisades,21843,1.5
+2013,Altadena,36406,1.5
+2013,Eaton Canyon,12135,1.5
+2013,Malibu,12135,1.5
+2013,Topanga,8494,1.5
+2013,Hollywood Hills,33979,1.5
+2013,Ventura County WUI,42474,1.5
+2014,Pacific Palisades,22171,1.5
+2014,Altadena,36952,1.5
+2014,Eaton Canyon,12317,1.5
+2014,Malibu,12317,1.5
+2014,Topanga,8622,1.5
+2014,Hollywood Hills,34489,1.5
+2014,Ventura County WUI,43111,1.5
+2015,Pacific Palisades,22504,1.5
+2015,Altadena,37506,1.5
+2015,Eaton Canyon,12502,1.5
+2015,Malibu,12502,1.5
+2015,Topanga,8751,1.5
+2015,Hollywood Hills,35006,1.5
+2015,Ventura County WUI,43758,1.5
+2016,Pacific Palisades,22841,1.5
+2016,Altadena,38069,1.5
+2016,Eaton Canyon,12689,1.5
+2016,Malibu,12689,1.5
+2016,Topanga,8882,1.5
+2016,Hollywood Hills,35531,1.5
+2016,Ventura County WUI,44414,1.5
+2017,Pacific Palisades,23184,1.5
+2017,Altadena,38640,1.5
+2017,Eaton Canyon,12880,1.5
+2017,Malibu,12880,1.5
+2017,Topanga,9016,1.5
+2017,Hollywood Hills,36064,1.5
+2017,Ventura County WUI,45080,1.5
+2018,Pacific Palisades,23532,1.5
+2018,Altadena,39220,1.5
+2018,Eaton Canyon,13073,1.5
+2018,Malibu,13073,1.5
+2018,Topanga,9151,1.5
+2018,Hollywood Hills,36605,1.5
+2018,Ventura County WUI,45756,1.5
+2019,Pacific Palisades,23885,1.5
+2019,Altadena,39808,1.5
+2019,Eaton Canyon,13269,1.5
+2019,Malibu,13269,1.5
+2019,Topanga,9288,1.5
+2019,Hollywood Hills,37154,1.5
+2019,Ventura County WUI,46443,1.5
+2020,Pacific Palisades,24243,1.5
+2020,Altadena,40405,1.5
+2020,Eaton Canyon,13468,1.5
+2020,Malibu,13468,1.5
+2020,Topanga,9427,1.5
+2020,Hollywood Hills,37711,1.5
+2020,Ventura County WUI,47139,1.5
+2021,Pacific Palisades,24607,1.5
+2021,Altadena,41011,1.5
+2021,Eaton Canyon,13670,1.5
+2021,Malibu,13670,1.5
+2021,Topanga,9569,1.5
+2021,Hollywood Hills,38277,1.5
+2021,Ventura County WUI,47847,1.5
+2022,Pacific Palisades,24976,1.5
+2022,Altadena,41626,1.5
+2022,Eaton Canyon,13875,1.5
+2022,Malibu,13875,1.5
+2022,Topanga,9712,1.5
+2022,Hollywood Hills,38851,1.5
+2022,Ventura County WUI,48564,1.5
+2023,Pacific Palisades,25350,1.5
+2023,Altadena,42251,1.5
+2023,Eaton Canyon,14083,1.5
+2023,Malibu,14083,1.5
+2023,Topanga,9858,1.5
+2023,Hollywood Hills,39434,1.5
+2023,Ventura County WUI,49293,1.5
+2024,Pacific Palisades,25731,1.5
+2024,Altadena,42885,1.5
+2024,Eaton Canyon,14295,1.5
+2024,Malibu,14295,1.5
+2024,Topanga,10006,1.5
+2024,Hollywood Hills,40026,1.5
+2024,Ventura County WUI,50032,1.5
+2025,Pacific Palisades,26117,1.5
+2025,Altadena,43528,1.5
+2025,Eaton Canyon,14509,1.5
+2025,Malibu,14509,1.5
+2025,Topanga,10156,1.5
+2025,Hollywood Hills,40626,1.5
+2025,Ventura County WUI,50783,1.5

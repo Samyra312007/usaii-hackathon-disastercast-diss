@@ -55,6 +55,11 @@ def project_next_cost(events_df: pd.DataFrame,
     pop_factor = calculate_population_factor(population_df) if population_df is not None else 1.0
     projected_direct_bn = round(base_projection * pop_factor, 2)
 
+    # Guard against negative projections from sparse data
+    if projected_direct_bn <= 0:
+        last_cost = float(events_df["total_damage_bn"].iloc[-1])
+        projected_direct_bn = round(last_cost * 1.10, 2)
+
     # Calculate trend rate
     trend_rate = float(model.coef_[0])
 
