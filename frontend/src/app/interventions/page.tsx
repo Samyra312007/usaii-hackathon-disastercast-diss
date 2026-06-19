@@ -130,7 +130,15 @@ function RoiChart({ interventions }: { interventions: Intervention[] }) {
 
 function InterventionsContent() {
   const searchParams = useSearchParams();
-  const city = searchParams.get("city") || loadState("city", "houston");
+  const [city, setCity] = useState<string>("houston");
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const fromUrl = params.get("city");
+    const saved = loadState<string | null>("city", null);
+    setCity(fromUrl || saved || "houston");
+  }, [searchParams]);
+
   const cityName = city === "houston" ? "Houston" : "Los Angeles";
 
   useEffect(() => {
